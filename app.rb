@@ -7,7 +7,7 @@ class App < Sinatra::Base
   end
 
   get '/tom' do
-    "Hello, World!"
+    "Hello, Tom!"
   end
 
 end
